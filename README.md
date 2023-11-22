@@ -1,2 +1,0 @@
-# website
- Joseph's Site
